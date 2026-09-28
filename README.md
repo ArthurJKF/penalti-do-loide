@@ -1,4 +1,4 @@
-# penalti-do-loide
+# Pênalti do Loide
 Jogo feito em Scratch, para jogar em 2 pessoas (local).
 
 Inspirado no jogador Loide Augusto.

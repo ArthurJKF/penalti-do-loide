@@ -5,7 +5,7 @@ Inspirado no jogador Loide Augusto.
 
 ## Como rodar
 1. Baixe o arquivo "Penalti do Loide.sb3"
-2. Entre no site Scratch pelo link https://scratch.mit.edu/projects/editor;
+2. Entre no site Scratch, pelo link https://scratch.mit.edu/projects/editor;
 3. Clique em "Arquivo", depois em "Load from your computer";
 4. Abra o arquivo .sb3;
 5. Clique em "Controle de Tela Cheia";
